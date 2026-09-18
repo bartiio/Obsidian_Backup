@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRACA/daily/2026-09-12.md",
+                "file": "PRACA/EZD/Faktury przychodzące.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-12"
+              "title": "Faktury przychodzące"
             }
           }
         ],
@@ -229,13 +229,13 @@
   },
   "active": "0b7fc6c17098ba0b",
   "lastOpenFiles": [
+    "PRACA/daily/2026-09-12.md",
     "PRACA/daily/2026-09-14 Podpis SM-JAR.md",
     "PRACA/daily/2026-09-14 Spisać nie działajace kamery.md",
     "PRACA/daily/2026-09-11 test.md",
     "test/test.md",
     "test",
     "PRACA/daily/2026-09-11.md",
-    "PRACA/daily/2026-09-12.md",
     "PRACA/Daily.md",
     "PRACA/daily",
     "templates/DailyTemplate.md",
