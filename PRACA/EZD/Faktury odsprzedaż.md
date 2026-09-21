@@ -1,4 +1,5 @@
-tak samo jak certum
-imię nazwisko bez nip
+Inna grupa faktur
 nr roboty "pozostała sprzedaż"
-kontaktować się z osecka
+zaznaczyć bak identyfiaktora
+adresy od gorskiej
+GTU -> GTU_06

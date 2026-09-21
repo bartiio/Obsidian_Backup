@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRACA/EZD/Faktury przychodzące.md",
+                "file": "PRACA/EZD/Faktury odsprzedaż.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faktury przychodzące"
+              "title": "Faktury odsprzedaż"
             }
           },
           {
@@ -243,8 +243,8 @@
   },
   "active": "0b7fc6c17098ba0b",
   "lastOpenFiles": [
-    "ASrock przywracanie.md",
     "PRACA/EZD/Faktury przychodzące.md",
+    "ASrock przywracanie.md",
     "PRACA/daily/2026-09-12.md",
     "PRACA/daily/2026-09-14 Podpis SM-JAR.md",
     "PRACA/daily/2026-09-14 Spisać nie działajace kamery.md",
