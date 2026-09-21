@@ -9,4 +9,6 @@
 9. zastosuj
 10. opis akceptacji : Odnowienie na sprzedaż dla klienta zewnętrznego
 11. zapisz akceptacje
-12. zastosuj
+12. udostępnij RF
+13. klik udostepnij
+14. zastosuj

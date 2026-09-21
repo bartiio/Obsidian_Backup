@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7578cf88a99452f9",
+  "active": "0b7fc6c17098ba0b",
   "lastOpenFiles": [
-    "PRACA/EZD/Faktury przychodzące.md",
     "ASrock przywracanie.md",
+    "PRACA/EZD/Faktury przychodzące.md",
     "PRACA/daily/2026-09-12.md",
     "PRACA/daily/2026-09-14 Podpis SM-JAR.md",
     "PRACA/daily/2026-09-14 Spisać nie działajace kamery.md",
