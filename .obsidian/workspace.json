@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Github"
             }
+          },
+          {
+            "id": "52a750626dee49bf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png"
+              },
+              "icon": "lucide-image",
+              "title": "Clipboard - 1 września 2026 10_45 333"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,8 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5aadbc3ca20dbec4",
+  "active": "52a750626dee49bf",
   "lastOpenFiles": [
+    "PRACA/EZD/Faktury korygujące.md",
+    "PRACA/screeny/Clipboard - 1 września 2026 10_45.png",
     "spodkanie odkupowe.md",
     "Prywatne/Github.md",
     "Prywatne/Bartek.md",
@@ -284,8 +298,6 @@
     "PRACA/KOMENDY I PRZYDATNE/Linki Certum.md",
     "Prywatne",
     "PRACA",
-    "PRACA/screeny/Clipboard - 1 września 2026 10_45.png",
-    "PRACA/EZD/Faktury korygujące.md",
     "Bez nazwy 1.base",
     "2026-09-10.md",
     "Bez nazwy.canvas",
@@ -297,7 +309,6 @@
     "PRACA/EZD/Faktury Certum.md",
     "PRACA/EZD",
     "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png",
-    "PRACA/EZD/korekta1.png",
-    "Certum Cennik.md"
+    "PRACA/EZD/korekta1.png"
   ]
 }
