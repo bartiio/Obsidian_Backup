@@ -65,12 +65,14 @@
             "id": "52a750626dee49bf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png"
+                "file": "PRACA/EZD/Faktury przychodzące.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Clipboard - 1 września 2026 10_45 333"
+              "icon": "lucide-file",
+              "title": "Faktury przychodzące"
             }
           }
         ],
@@ -269,6 +271,7 @@
   },
   "active": "52a750626dee49bf",
   "lastOpenFiles": [
+    "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png",
     "PRACA/EZD/Faktury korygujące.md",
     "PRACA/screeny/Clipboard - 1 września 2026 10_45.png",
     "spodkanie odkupowe.md",
@@ -308,7 +311,6 @@
     "PRACA/EZD/korekta2.png",
     "PRACA/EZD/Faktury Certum.md",
     "PRACA/EZD",
-    "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png",
     "PRACA/EZD/korekta1.png"
   ]
 }
