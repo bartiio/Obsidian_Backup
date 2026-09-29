@@ -9,6 +9,7 @@ EZD-opegieka
 **iban 2549**
 **termin 14dni**
 
+!!! data zakończenia - kiedy był klient lub kiedy dostaliśmy kase
 
 ---
 Po zapłaceniu  wystawić VAT
