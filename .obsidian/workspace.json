@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Przeglądarka plików"
+              "title": "Pliki"
             }
           },
           {
@@ -241,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a750626dee49bf",
+  "active": "27c033ed8e8cba6f",
   "lastOpenFiles": [
     "PRACA/OPEGIEKA.md",
     "PRACA/RCP.md",
