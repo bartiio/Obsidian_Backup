@@ -20,45 +20,17 @@
             }
           },
           {
-            "id": "5aadbc3ca20dbec4",
+            "id": "27c033ed8e8cba6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spodkanie odkupowe.md",
+                "file": "PRACA/RCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spodkanie odkupowe"
-            }
-          },
-          {
-            "id": "5efbbcd0cc5c8813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PRACA/OPEGIEKA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OPEGIEKA"
-            }
-          },
-          {
-            "id": "8c677d048bba8255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prywatne/Github.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Github"
+              "title": "RCP"
             }
           },
           {
@@ -67,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
+                "file": "PRACA/RCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Komendy ITP"
+              "title": "RCP"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,6 +244,8 @@
   "active": "52a750626dee49bf",
   "lastOpenFiles": [
     "PRACA/OPEGIEKA.md",
+    "PRACA/RCP.md",
+    "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
     "PRACA/ASrock przywracanie.md",
     "PRACA/screeny/Propodpis Potrzebne dokumenty.png",
     "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png",
@@ -287,7 +261,6 @@
     "Prywatne/Bartek.md",
     "Prywatne/Prywatne.md",
     "PRACA/daily/2026-09-11.md",
-    "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
     "PRACA/EZD/Faktury odsprzedaż.md",
     "PRACA/daily/2026-09-12.md",
     "PRACA/daily/2026-09-14 Podpis SM-JAR.md",
