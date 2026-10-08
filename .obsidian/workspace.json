@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRACA/RCP.md",
+                "file": "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RCP"
+              "title": "Komendy ITP"
             }
           },
           {
@@ -243,8 +243,8 @@
   },
   "active": "27c033ed8e8cba6f",
   "lastOpenFiles": [
-    "PRACA/OPEGIEKA.md",
     "PRACA/RCP.md",
+    "PRACA/OPEGIEKA.md",
     "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
     "PRACA/ASrock przywracanie.md",
     "PRACA/screeny/Propodpis Potrzebne dokumenty.png",
