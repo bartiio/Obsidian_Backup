@@ -23,14 +23,12 @@
             "id": "27c033ed8e8cba6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
-                "mode": "source",
-                "source": false
+                "file": "PRACA/EZD/korekta1.png"
               },
-              "icon": "lucide-file",
-              "title": "Komendy ITP"
+              "icon": "lucide-image",
+              "title": "korekta1"
             }
           },
           {
@@ -47,8 +45,7 @@
               "title": "RCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,22 +238,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27c033ed8e8cba6f",
+  "active": "849ae1d8c5276390",
   "lastOpenFiles": [
-    "PRACA/RCP.md",
-    "PRACA/OPEGIEKA.md",
-    "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
+    "PRACA/EZD/korekta1.png",
+    "PRACA/EZD/korekta2.png",
+    "PRACA/KOMENDY I PRZYDATNE/Linki Certum.md",
+    "PRACA/KOMENDY I PRZYDATNE/LINKI PRACA.md",
     "PRACA/ASrock przywracanie.md",
+    "PRACA/OPEGIEKA.md",
+    "PRACA/RCP.md",
+    "spodkanie odkupowe.md",
+    "PRACA/KOMENDY I PRZYDATNE/Komendy ITP.md",
     "PRACA/screeny/Propodpis Potrzebne dokumenty.png",
     "PRACA/screeny/Clipboard - 1 września 2026 10_45 333.png",
     "PRACA/screeny/Clipboard - 1 września 2026 10_45.png",
     "PRACA/screeny/Certum PODPIS-PRO.md",
-    "PRACA/KOMENDY I PRZYDATNE/LINKI PRACA.md",
-    "PRACA/KOMENDY I PRZYDATNE/Linki Certum.md",
     "PRACA/EZD/Faktury przychodzące.md",
     "PRACA/EZD/Faktury Certum.md",
     "PRACA/EZD/Faktury korygujące.md",
-    "spodkanie odkupowe.md",
     "Prywatne/Github.md",
     "Prywatne/Bartek.md",
     "Prywatne/Prywatne.md",
@@ -278,12 +277,9 @@
     "Prywatne",
     "PRACA",
     "Bez nazwy 1.base",
-    "2026-09-10.md",
     "Bez nazwy.canvas",
     "PRACA/screeny",
     "PRACA/KOMENDY I PRZYDATNE",
-    "PRACA/EZD/korekta2.png",
-    "PRACA/EZD",
-    "PRACA/EZD/korekta1.png"
+    "PRACA/EZD"
   ]
 }
