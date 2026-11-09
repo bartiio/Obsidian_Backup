@@ -5,7 +5,7 @@
 5. dodaj podział kosztów :
 6. forma płatności - przelew
 7. rodzaj wydatku  - certyfikaty kwalifikowane
-8. pracownia zakład teleinformatyki ZT
+8. pracownia zakład teleinformatyki ZT/ jeśli dla pracownika opegieki to przybory biurowe
 9. zastosuj
 10. opis akceptacji : Odnowienie na sprzedaż dla klienta zewnętrznego
 11. zapisz akceptacje
