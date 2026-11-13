@@ -5,3 +5,4 @@
 5. [[Linki Certum]]
 6. [[ASrock przywracanie]]
 7. [[RCP]]
+8. [[Symfonia przestaje działać po zablokowaniu komputera]]

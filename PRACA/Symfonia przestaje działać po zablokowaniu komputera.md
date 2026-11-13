@@ -1,0 +1,1 @@
+symfonia nie ogarnia jak komputer wchodzi w chibernacje bo wyłącza karte sieciową i traci połączenie z bazą danych. po czym symfonia nie wie jak odnowić połączenie z DB i przestaje działać. zeby pozbyć sie tego błędu trzeba albo wyłączyć funkcje wyłączania karty sieciowej podczas hibernacji
